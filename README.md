@@ -2,7 +2,7 @@
 
 스크립트 한 줄로 블로그·홈페이지에 붙이는 스포츠 위젯 모음입니다. 라이브스코어, 리그 순위표, 회차 리포트, 이변 지수, 배당 계산기 8종. 데이터는 [놀이터 nrt.cx](https://nrt.cx)가 실시간으로 갱신하고, 위젯은 iframe 으로 렌더링되며 높이가 내용에 맞춰 자동으로 조절됩니다. 가입, API 키, 설치 없음.
 
-**[데모 페이지에서 실제 동작 보기](https://gildonghong484.github.io/noritur-widgets/)**
+**[데모 페이지에서 실제 동작 보기](https://nrtcx.github.io/noritur-widgets/)**
 
 | 위젯 | 내용 | 갱신 |
 |---|---|---|
@@ -116,4 +116,4 @@
 
 ## 문의
 
-버그나 리그 추가 요청은 [Issues](https://github.com/gildonghong484/noritur-widgets/issues)에 남겨 주세요. 사이트: [nrt.cx](https://nrt.cx) · 블로그: [noritur.com](https://noritur.com)
+버그나 리그 추가 요청은 [Issues](https://github.com/nrtcx/noritur-widgets/issues)에 남겨 주세요. 사이트: [nrt.cx](https://nrt.cx) · 블로그: [noritur.com](https://noritur.com)
